@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">task332</string>
+    <string name="ok">OK</string>
+    <string name="text">Aposteriori, the gravitational paradox is ambivalently understood as an intelligent sign. The syllogism axiom, by definition, is an ambiguous subject of activity. Intellect naturally understands the intelligent law of the external world, opening up new horizons.</string>
+    <string-array name="language">
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+</resources>
